@@ -1,0 +1,31 @@
+_repo: Contes-de-No-l-par-Josette_13024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dandurand, Madame (Joséphine)
+    aliases:
+    - Dandurand, Josephine Marchand
+    - Josette
+    - Dandurand, Joséphine
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '4783'
+    url: http://www.gutenberg.org/2009/agents/4783
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- Christmas
+gutenberg_issued: '2004-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13024'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PQ'
+- GITenberg
+title: Contes de Noël par Josette
+url: http://www.gutenberg.org/ebooks/13024
